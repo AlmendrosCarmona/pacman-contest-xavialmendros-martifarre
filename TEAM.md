@@ -6,10 +6,8 @@
 
 **Instructor:** Jorge Lobo
 
-**Team name:** XAVI-MARTI-UPF
+**Team name:** marti_xavi_upf
 
 **Team members:**
 
-2546300 - Xavier Almendros Carmona - almendros.carmona@gmail.com - AlmendrosCarmona
-
-Student numbers should just be the **numbers**.
+254630 - Xavier Almendros - almendros.carmona@gmail.com - AlmednrosCarmona
