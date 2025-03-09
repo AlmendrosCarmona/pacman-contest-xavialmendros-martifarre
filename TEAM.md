@@ -6,8 +6,9 @@
 
 **Instructor:** Jorge Lobo
 
-**Team name:** marti_xavi_upf
+**Team name:** Ghostbuster AI
 
 **Team members:**
 
 254630 - Xavier Almendros - almendros.carmona@gmail.com - AlmednrosCarmona
+254540 - Marti Farre - marti.farre01@estudiant.upf.edu - marti-farre
