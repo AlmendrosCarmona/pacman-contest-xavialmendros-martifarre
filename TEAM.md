@@ -6,7 +6,7 @@
 
 **Instructor:** Jorge Lobo
 
-**Team name:** Ghostbuster AI
+**Team name:** xavi_marti_upf
 
 **Team members:**
 
