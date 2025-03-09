@@ -22,7 +22,7 @@ import heapq
 #################
 
 def create_team(first_index, second_index, is_red,
-                first='EnhancedOffensiveAgent', second='DefensiveAgentRule', num_training=0):
+                first='EnhancedOffensiveAgent', second='DefensiveAgent', num_training=0):
     """
     This function should return a list of two agents that will form the
     team, initialized using firstIndex and secondIndex as their agent
