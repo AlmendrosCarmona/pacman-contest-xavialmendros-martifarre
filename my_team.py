@@ -200,7 +200,6 @@ class EnhancedOffensiveAgent(CaptureAgent):
                 danger_level = 1 
         return danger_level
 
-# XAVI AGENT
 class DefensiveAgent(CaptureAgent):
     def __init__(self, index):
         CaptureAgent.__init__(self, index)
